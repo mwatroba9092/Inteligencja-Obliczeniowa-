@@ -57,3 +57,4 @@ if __name__ == "__main__":
 
 # c)
 # Lacznie na pisanie podpunktu a-b zajelo mi to jakies 30-40 minut
+# 
